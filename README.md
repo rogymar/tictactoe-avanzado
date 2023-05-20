@@ -1,8 +1,8 @@
 <h1 align="center">TIC-TAC-TOE-GAME</h1>
 
 
-## :rocket: Knowledges
- - `ReactJS`
+## 👉🏻 Realizado con:
+ - `React`
  - `Framer Motion`
 
 # Clone this repository
