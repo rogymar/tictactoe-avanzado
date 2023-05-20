@@ -1,4 +1,4 @@
-<h1 align="center">TIC-TAC-TOE-GAME</h1>
+<h1 align="center">Tic tac toe Game</h1>
 
 
 ## 👉🏻 Realizado con:
